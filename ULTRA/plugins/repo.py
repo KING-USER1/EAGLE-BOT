@@ -32,16 +32,16 @@ async def inline_id_handler(event: events.InlineQuery.Event):
 # updated by madboy482
 async def callback_query_handler(event):
 # inline by TEAMLEGEND, TEAMULTRAX
-  await event.edit(text=f"**UʟᴛʀᴀX's Rᴇᴘᴏ, Dᴇᴘʟᴏʏ ᴀɴᴅ Gʀᴏᴜᴘ Lɪɴᴋ\n\n© @UltraXOT**",buttons=[
+  await event.edit(text=f"**UʟᴛʀᴀX's Rᴇᴘᴏ, Dᴇᴘʟᴏʏ ᴀɴᴅ Gʀᴏᴜᴘ Lɪɴᴋ\n\n© @EAGLE_USERBOT**",buttons=[
    # updated by madboy482
    # updated by madboy482
    # updated by madboy482
                 [
-                    Button.url(f"⚜️ Rᴇᴘᴏ ⚜️", url="https://github.com/ULTRA-OP/ULTRA-X"),
+                    Button.url(f"⚜️ Rᴇᴘᴏ ⚜️", url="https://github.com/KING-USER1/EAGLE-BOT"),
                  # updated by madboy482
                  # updated by madboy482
                  # updated by madboy482
-                    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/ULTRAXCHAT")],
+                    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/EAGLE_USERBOT")],
    # updated by madboy482
    # updated by madboy482
    # updated by madboy482
