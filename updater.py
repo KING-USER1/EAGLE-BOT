@@ -9,8 +9,8 @@ from asyncio import sleep
 from os import execl
 import sys
 import os
-from ULTRA import bot as javes
-from ULTRA.utils import admin_cmd
+from EAGLE import bot as javes
+from EAGLE.utils import admin_cmd
 import io
 import heroku3
 import asyncio
@@ -19,7 +19,7 @@ from asyncio.subprocess import PIPE as asyncPIPE
 
 import sys
 import json
-from ULTRA import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot
+from EAGLE import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot
 from speedtest import Speedtest
 from telethon import functions
 from os import remove, execle, path, makedirs, getenv, environ
@@ -69,7 +69,7 @@ HEROKU_APIKEY = os.environ.get("HEROKU_APIKEY", None)
 Heroku = heroku3.from_key(HEROKU_API_KEY)
 GIT_REPO_NAME = "LEGEND-BOT"
 heroku_api = "https://api.heroku.com"
-UPSTREAM_REPO_URL="https://github.com/legendx22/LEGEND-BOT"
+UPSTREAM_REPO_URL="https://github.com/KING-USER1/EAGLE-BOT"
 
 # ================= CONSTANT =================
 JAVES_NNAME = str(HEROKU_APPNAME)
@@ -285,4 +285,4 @@ from ULTRA.utils import admin_cmd
 @borg.on(admin_cmd(pattern="update|update now"))
 async def hehe (event):
   await event.edit("want to update your bot ?\nnow not use update now use \n`.restart` only")
-#maked by LEGENDX22 🔥🔥🔥⚡⚡⚡⚡
+#maked by TERABAAP 🔥🔥🔥⚡⚡⚡⚡
