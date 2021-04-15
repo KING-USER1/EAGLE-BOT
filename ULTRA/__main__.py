@@ -64,7 +64,7 @@ for name in files:
 
 
 if  EXTRA_PLUGS == True:
-    os.system("git clone https://github.com/ULTRA-OP/ULTRA_PLUGS.git ./ULTRA/plugins/")
+    os.system("git clone https:.git ./ULTRA/plugins/")
     path = "ULTRA/plugins/*.py"
     files = glob.glob(path)
     for name in files:
