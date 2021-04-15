@@ -3,7 +3,7 @@
 
 
 import random, re
-from ULTRA import CMD_HELP
+from EAGLE import CMD_HELP
 from uniborg.util import admin_cmd
 import asyncio
 from telethon import events
