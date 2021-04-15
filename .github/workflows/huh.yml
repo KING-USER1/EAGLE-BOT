@@ -1,4 +1,4 @@
-name: EAGLE
+name: LEGENDX
 
 on: push
 
@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "from userbot.eagle"
+          find: "from userbot.ULTA-X"
 
-          replace: "from EAGLE"
+          replace: "from EAGLE-BOT"
 
       - name: Create Pull Request
 
@@ -36,5 +36,9 @@ jobs:
 
           commit_user_name: KING-USER1
 
-          commit_user_email: rangerterabaap@gmail.com
+          commit_user_email: baapterabcbc@gmail.com
+
+
+
+
 
