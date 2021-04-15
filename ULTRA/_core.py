@@ -10,7 +10,7 @@ from ULTRA.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 3
 thumb_image_path = "./Resources/UltraX.jpg"
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "ULTRA X"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "EAGLE"
 
 
 @bot.on(admin_cmd(pattern=r"send (?P<shortname>\w+)", outgoing=True))
@@ -22,7 +22,7 @@ async def send(event):
     message_id = event.message.id
     thumb = thumb_image_path
     input_str = event.pattern_match.group(1)
-    the_plugin_file = "./ULTRA/plugins/{}.py".format(input_str)
+    the_plugin_file = "./EAGLE/plugins/{}.py".format(input_str)
     if os.path.exists(the_plugin_file):
         start = datetime.now()
         pro = await event.client.send_file(
@@ -89,7 +89,7 @@ async def unload(event):
     shortname = event.pattern_match["shortname"]
     try:
         remove_plugin(shortname)
-        qwe = await eor(event, f"UltraX Has Successfully unloaded {shortname}")
+        qwe = await eor(event, f"EAGLE Has Successfully unloaded {shortname}")
     except Exception as e:
         await qwe.edit(
             "UltraX has Successfully unloaded {shortname}\n{}".format(shortname, str(e))
