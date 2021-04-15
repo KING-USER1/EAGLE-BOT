@@ -7,9 +7,9 @@ import re
 from PIL import Image, ImageDraw, ImageFont
 from telethon.tl.types import InputMessagesFilterDocument
 
-from ULTRA import CMD_HELP, bot
-from ULTRA.utils import admin_cmd, edit_or_reply, sudo_cmd
-from ULTRA.helpers.functions import deEmojify
+from EAGLE import CMD_HELP, bot
+from EAGLE.utils import admin_cmd, edit_or_reply, sudo_cmd
+from EAGLE.helpers.functions import deEmojify
 
 # RegEx by https://t.me/c/1220993104/50065
 
