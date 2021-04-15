@@ -18,7 +18,7 @@ jobs:
 
         with:
 
-          find: "from userbot.ULTA-X"
+          find: "from userbot.ULTRA"
 
           replace: "from EAGLE-BOT"
 
