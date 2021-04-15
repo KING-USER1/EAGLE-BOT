@@ -1,6 +1,6 @@
-from ULTRA import bot
-from ULTRA.utils import admin_cmd
-import ULTRA.plugins.sql_helper.fsub_sql as sql
+from EAGLE import bot
+from EAGLE.utils import admin_cmd
+import EAGLE.plugins.sql_helper.fsub_sql as sql
 from telethon import events, functions, Button
 import telethon
 from telethon.tl import functions
