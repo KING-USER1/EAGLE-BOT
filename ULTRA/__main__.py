@@ -64,7 +64,7 @@ for name in files:
 
 
 if  EXTRA_PLUGS == True:
-    os.system("git clone https://github.com/KING-USER1/EAGLE-BOT/tree/main/ULTRA/plugins.git ./ULTRA/plugins/")
+    os.system("git clone https://github.com/KING-USER1/EAGLE-PLUGS.git ./EAGLE/plugins/")
     path = "ULTRA/plugins/*.py"
     files = glob.glob(path)
     for name in files:
@@ -90,7 +90,7 @@ else:
 
 import ULTRA._core
 import os
-print("UltraX is Up and Awake! ©️ TeamUltraX 2021")
+print("EAGLE is Up and Awake! ©️ TEAMNX 2021")
 async def legend():
   pro = await xbot.get_me()
   legend = await bot.get_me()
