@@ -1,5 +1,5 @@
-* <b><a href ="https://github.com/ULTRA-OP/ULTRA-X#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ υℓтяα χ </a>
-* <b><a href="https://github.com/ULTRA-OP/ULTRA-X/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">υℓтяα χ Sᴛᴀᴛᴜs <a/>
+* <b><a href ="https://github.com/KING-USER1/EAGLE-BOT#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ EAGLE </a>
+* <b><a href="https://github.com/KING-USER1/EAGLE-BOT/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">EAGLE Sᴛᴀᴛᴜs <a/>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/legendx22/LEGEND-BOT?utm_source=github.com&utm_medium=referral&utm_content=legendx22/LEGEND-BOT&utm_campaign=Badge_Grade_Settings)
 [![Python 3.8.6](https://img.shields.io/badge/Python-3.8.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-386/)
@@ -8,19 +8,19 @@
 
 
 # υℓтяα χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+This is a EAGLE made for telegram. I made this EAGLE with help of all other EAGLERs available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/ULTRAXOT) 
+This is the one and only official EAGLE вσт made by [ Team Eagle](https://t.me/EAGLE_USERBOT) 
 
-Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
+Also join [support channel and group](https://github.com/KING-USER1/EAGLE-BOT#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/ULTRAXOT)
+[![EAGLE вσт ℓσgσ](https://telegra.ph/file/8a638fe98c217f020d01b.jpg)](https://t.me/EAGLE_USERBOT)
 
 -------------------------------------------------
 
 ## Dᴇᴘʟᴏʏ:-
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]<a href="https://heroku.com/deploy?template=https://github.com/KING-USER1/EAGLE-BOT/blob/main"> <img src="https://www2.assets.heroku.com/assets/elements/elements-buttons-2-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg" alt="Deploy to Heroku" /></a></p>
+(https://www.herokucdn.com/deploy/button.svg)]<a href="https://heroku.com/deploy?template=https://github.com/KING-USER1/EAGLE-BOT/blob/main"> <img src="https://www2.assets.heroku.com/assets/elements/elements-buttons-1-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg" alt="Deploy to Heroku" /></a></p>
 
 ------------------------------------------------
 
@@ -44,7 +44,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 ### • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
 ### - MADBOY CHUTIA HE 😊 
 ### • ALAIN    »»  <a href="https://github.com/infotechbro" alt="Alain"> <img src="https://img.shields.io/badge/ALAIN-95B9C7?logo=github" /></a>
-### • DEVIL    »»  <a href="https://github.com/lucifeermorningstar" alt="Devil"> <img src="https://img.shields.io/badge/DEVIL-82CAFA?logo=github" /></a>
+### • COBRA   »»  <a href="https://github.com/lucifeermorningstar" alt="Devil"> <img src="https://img.shields.io/badge/DEVIL-82CAFA?logo=github" /></a>
 
 
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
@@ -102,8 +102,8 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-## Copyright (C) 2021 by Team Ultra for UltraX UserBot, < https://github.com/ULTRA-OP >.
+## Copyright (C) 2021 by Team Eagle for EAGLE UserBot, < https://github.com/KING-USER1/EAGLE-BOT >.
 
 
-# ➥ ULTRA-X   »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
-# ➥ ULTRA-OP  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
+# ➥ EAGLE-  »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
+# ➥ EAGLE  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
