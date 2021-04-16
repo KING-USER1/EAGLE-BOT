@@ -7,7 +7,7 @@
 [![HitCount](http://hits.dwyl.com/ULTRA-OP/ULTRA-X.svg)](http://hits.dwyl.com/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
+# EAGLE вσт
 This is a EAGLE made for telegram. I made this EAGLE with help of all other EAGLERs available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official EAGLE вσт made by [ Team Eagle](https://t.me/EAGLE_USERBOT) 
@@ -20,7 +20,7 @@ Also join [support channel and group](https://github.com/KING-USER1/EAGLE-BOT#o%
 
 ## Dᴇᴘʟᴏʏ:-
 
-(https://www.herokucdn.com/deploy/button.svg)]<a href="https://heroku.com/deploy?template=https://github.com/KING-USER1/EAGLE-BOT/blob/main"> <img src="https://www2.assets.heroku.com/assets/elements/elements-buttons-1-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg" alt="Deploy to Heroku" /></a></p>
+(https://www.herokucdn.com/deploy/button.svg)]<a href="https://heroku.com/deploy?template=https://github.com/KING-USER1/EAGLE-BOT/blob/main"> <img src="https://www2.assets.heroku.com/assets/elements/elements-buttons-2-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg" alt="Deploy to Heroku" /></a></p>
 
 ------------------------------------------------
 
