@@ -63,8 +63,8 @@ async def start(event):
             caption=starttext,
             link_preview=False,
             buttons=[
-                [custom.Button.url("Dᴇᴘʟᴏʏ Yᴏᴜʀ Oᴡɴ UʟᴛʀᴀX", "http://GitHub.com/ULTRA-OP/ULTRA-X")],
-                [Button.url("Sᴜᴘᴘᴏʀᴛ", "t.me/UltraXchaT")],
+                [custom.Button.url("Dᴇᴘʟᴏʏ Yᴏᴜʀ Oᴡɴ EʟᴛʀᴀX", "https://github.com/KING-USER1/EAGLE-BOT")],
+                [Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/EAGLE_USERBOT")],
             ],
         )
         if os.path.exists(mypic):
