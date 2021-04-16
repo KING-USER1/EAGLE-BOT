@@ -41,5 +41,5 @@ GROUP = "[SUPPORT GROUP](https://t.me/EAGLE_USERBOT)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
 ALIVE = "EAGLE вσт ιѕ ση 🔥 ƒιяє 🔥" 
-OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ υℓтяα χ вσт ι αм тнє вєѕт υѕєявσт 💝"
+OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ EAGLE вσт ι αм тнє вєѕт υѕєявσт 💝"
 EMOJI = "🔥"
